@@ -1,0 +1,8 @@
+/nixos.qcow2
+/vm.nix
+/.direnv
+/bpf/bin
+/bin
+/.envrc
+/bpfman
+
