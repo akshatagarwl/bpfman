@@ -3,7 +3,7 @@ module akshat.dev/bpfman
 go 1.21.4
 
 require (
-	github.com/DataDog/ebpf-manager v0.3.6
+	github.com/DataDog/ebpf-manager v0.3.7
 	github.com/cilium/ebpf v0.12.3
 )
 

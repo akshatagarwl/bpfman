@@ -1,5 +1,5 @@
-github.com/DataDog/ebpf-manager v0.3.6 h1:JuGT/AWoCq9xvS2XkOzIbH2Wj6jc9+SsLVJ7J1kLe/A=
-github.com/DataDog/ebpf-manager v0.3.6/go.mod h1:ULRKNrj8WbMQG8WdkRfS46y8xrTYV2Og8HKBR3SP6uY=
+github.com/DataDog/ebpf-manager v0.3.7 h1:2QdXeAeMfd+ABfg/SBNFkM9d3bdarv+t7X189sO2nrM=
+github.com/DataDog/ebpf-manager v0.3.7/go.mod h1:ULRKNrj8WbMQG8WdkRfS46y8xrTYV2Og8HKBR3SP6uY=
 github.com/cilium/ebpf v0.12.3 h1:8ht6F9MquybnY97at+VDZb3eQQr8ev79RueWeVaEcG4=
 github.com/cilium/ebpf v0.12.3/go.mod h1:TctK1ivibvI3znr66ljgi4hqOT8EYQjz1KWBfb1UVgM=
 github.com/frankban/quicktest v1.14.5 h1:dfYrrRyLtiqT9GyKXgdh+k4inNeTvmGbuSgZ3lx3GhA=
