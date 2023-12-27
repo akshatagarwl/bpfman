@@ -66,6 +66,7 @@ func run() error {
 			slog.Error("unable to init manager", "error", err)
 			return err
 		}
+
 		defer func() {
 			if err := m.Stop(manager.CleanAll); err != nil {
 				slog.Error("unable to stop manager", "error", err)
@@ -96,12 +97,14 @@ func run() error {
 			slog.Error("unable to init manager", "error", err)
 			return err
 		}
+
 		defer func() {
 			if err := m.Stop(manager.CleanAll); err != nil {
 				slog.Error("unable to stop manager", "error", err)
 			}
 		}()
 	}
+
 	slog.Info("manager declared", "manager", m)
 
 	if err := m.Start(); err != nil {
