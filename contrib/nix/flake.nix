@@ -22,6 +22,7 @@
             llvmPackages_16.bintools-unwrapped
             bpftools
             ebpf-verifier
+            mage
           ];
         };
       });
