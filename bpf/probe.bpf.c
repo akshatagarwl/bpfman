@@ -83,4 +83,4 @@ int BPF_PROG(sys_enter_sendto) {
     return 0;
 };
 
-char _license[] SEC("license") = "GPL";
+char _license[] SEC("license") = "Dual Apache/GPL";
